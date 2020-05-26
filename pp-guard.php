@@ -53,21 +53,21 @@ $darkgray Date    : $date
     sleep(1.5);
     echo "__";
     sleep(1.5);
+    echo "__";
+    sleep(1.5);
+    echo "__";
+    sleep(1.5);
+    echo "Tungguin orang sabar di sayang Allah:v";
+    sleep(1.5);
+    echo "__";
+    sleep(1.5);
+    echo "__";
+    sleep(1.5);
     echo "___";
     sleep(1.5);
     echo "____";
     sleep(1.5);
-    echo "_____";
-    sleep(1.5);
-    echo "______";
-    sleep(1.5);
-    echo "______";
-    sleep(1.5);
-    echo "________";
-    sleep(1.5);
-    echo "_________";
-    sleep(1.5);
-    echo "__________
+    echo "______
 ";
     sleep(2);
     echo "
@@ -84,7 +84,7 @@ $darkgray Date    : $date
 ";
         echo "$brown Saat Anda mengetik kata sandi, tetapi disembunyikan, Lanjutkan setelah selesai, silakan klik Enter
 ";
-echo "$darkgray Sumber Script https://kumpulanremaja.com
+echo "$darkgray Sumber Script https://termuxkanchil.blogspot.com/
 ";
 
 
